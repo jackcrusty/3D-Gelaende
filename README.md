@@ -3,7 +3,7 @@
 
 Digitales Höhenmodell des Nevado de Toluca
 
-![enter image description here](https://github.com/jackcrusty/testrepo/blob/main/Layout.png?raw=true)
+![enter image description here](https://github.com/jackcrusty/3D-Gelaende/blob/main/Nevado_de_Toluca.png?raw=true)
 
 
 
