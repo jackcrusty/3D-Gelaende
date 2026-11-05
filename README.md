@@ -15,3 +15,11 @@ Digitales Höhenmodell des Nevado de Toluca
 Reliefkarte Kroatien
 
 ![enter image description here](https://github.com/jackcrusty/3D-Gelaende/blob/main/Relief_Kroatien.png?raw=true)
+
+
+# **Übung 3**
+## **Beispiel 1**
+
+Reliefkarte Brandenburg
+
+![enter image description here](https://raw.githubusercontent.com/jackcrusty/3D-Gelaende/refs/heads/main/Deutschland_nachbilden.png)
