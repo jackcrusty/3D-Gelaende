@@ -31,3 +31,8 @@ Reliefkarte Brandenburg
 Vektordaten mit Rasterdaten verbinden
 
 ![enter image description here](https://github.com/jackcrusty/3D-Gelaende/blob/main/Arbeitslosigkeit_Berlin.png?raw=true)
+
+
+Spikemap
+
+![enter image description here](https://github.com/jackcrusty/3D-Gelaende/blob/main/spikemap.png?raw=true)
