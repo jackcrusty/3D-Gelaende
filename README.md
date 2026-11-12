@@ -23,3 +23,11 @@ Reliefkarte Kroatien
 Reliefkarte Brandenburg
 
 ![enter image description here](https://raw.githubusercontent.com/jackcrusty/3D-Gelaende/refs/heads/main/Deutschland_nachbilden.png)
+
+
+
+# **Übung 3**
+
+Vektordaten mit Rasterdaten verbinden
+
+![enter image description here](https://github.com/jackcrusty/3D-Gelaende/blob/main/Arbeitslosigkeit_Berlin.png?raw=true)
