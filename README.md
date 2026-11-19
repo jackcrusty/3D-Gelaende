@@ -36,3 +36,10 @@ Vektordaten mit Rasterdaten verbinden
 Spikemap
 
 ![enter image description here](https://github.com/jackcrusty/3D-Gelaende/blob/main/spikemap.png?raw=true)
+
+
+
+# **Übung 4**
+
+## **Beispiel 1**
+
