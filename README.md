@@ -47,6 +47,8 @@ Berlin Wedding mit 3D-Gebäude Höhendaten
 ![enter image description here](https://raw.githubusercontent.com/jackcrusty/3D-Gelaende/refs/heads/main/Wedding3D.png)
 
 
-## **Beispiel 1**
+## **Beispiel 2**
 Berlin Mitte mit 3D-Gebäude Höhendaten
+
+![enter image description here](https://github.com/jackcrusty/3D-Gelaende/blob/main/Mitte3D.png?raw=true)
 
