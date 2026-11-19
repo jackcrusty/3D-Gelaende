@@ -42,4 +42,11 @@ Spikemap
 # **Übung 4**
 
 ## **Beispiel 1**
+Berlin Wedding mit 3D-Gebäude Höhendaten
+
+![enter image description here](https://raw.githubusercontent.com/jackcrusty/3D-Gelaende/refs/heads/main/Wedding3D.png)
+
+
+## **Beispiel 1**
+Berlin Mitte mit 3D-Gebäude Höhendaten
 
